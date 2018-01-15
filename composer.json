@@ -26,7 +26,7 @@
     },
     "target-dir": "Nbobtc/Bundle/BitcoindBundle",
     "require": {
-        "symfony/symfony": ">=2.1,<=2.7",
+        "php": "^7.0",
         "nbobtc/bitcoind-php": "*"
     }
 }
